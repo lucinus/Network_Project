@@ -15,7 +15,7 @@ QOS를 통한 대역폭 및 품질 보장
 SSH를 사용하여 원격 접속을 통한 라우터 관리 기능
 공중 사설 네트워크 망 구성
 
-적용 기술
+[적용 기술]
 - Switch : VLAN, RSTP, MSTP, Etherchannel, L3 Switch, Port-Security, Storm-Control, BPDU Guard, SPAN
 - Router : OSPF, PBR, BGP, VRRP, GLBP, DHCP, NAT, ACL, AAA, SSH, QOS(LLQ, WRED) 
 - Security : GRE Tunnel, IPSec VPN
